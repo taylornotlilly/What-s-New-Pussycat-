@@ -29,9 +29,17 @@ songs before everyone in the diner loses their marbles over the shenanigans of
 two 11 year old boys named John.
 
 At the beginning of the game you have 3 lives
+
+
 Each Tom Jones song you destroy is worth one point
+
+
 Destroy all 21 to win
+
+
 Lose all 3 lives and you lose
+
+
 
 left, right, up, and down arrow keys to move
 SPACE bar to shoot
