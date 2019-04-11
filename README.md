@@ -28,9 +28,18 @@ Pussycat?" and a single "It's Not Unusual". Play as Jukebox and destroy all 21
 songs before everyone in the diner loses their marbles over the shenanigans of 
 two 11 year old boys named John.
 
+At the beginning of the game you have 3 lives
+Each Tom Jones song you destroy is worth one point
+Destroy all 21 to win
+Lose all 3 lives and you lose
 
-
-### Controls
 left, right, up, and down arrow keys to move
 SPACE bar to shoot
 X to close the game
+collect the green mushroom to reset your lives
+
+
+### Special thanks to
+freesound.org for the amazingly annoying sound effects
+google images for my sprites, background, etc.
+and John Mulaney, for being himself
