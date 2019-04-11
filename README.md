@@ -40,11 +40,10 @@ Destroy all 21 to win
 Lose all 3 lives and you lose
 
 
-collect the green mushroom to reset your lives
+Collect the green mushroom to reset your lives
 
 
-
-left, right, up, and down arrow keys to move
+Left, Right, Up, and Down arrow keys to move
 
 
 SPACE bar to shoot
@@ -54,12 +53,11 @@ X to close the game
 
 
 
-
-### Special thanks to
+### Special thanks to:
 freesound.org for the amazingly annoying sound effects
 
 
-google images for my sprites, background, etc.
+Google images for my sprites, background, etc.
 
 
 and John Mulaney, for being himself
