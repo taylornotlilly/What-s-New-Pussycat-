@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# What's New Pussycat?
 
-You can use the [editor on GitHub](https://github.com/taylornotlilly/What-s-New-Pussycat-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This space shooter style game is based on John Mulaney's Salt and Pepper Diner skit. You can listen to it on Spotify or Youtube. I would recomend doing this before you play in order to understand all the references I've put into the game
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Backstory
+"We walk into the Salt and Pepper Diner one day, and they had a jukebox there, 
+alright? And the jukebox was 3 plays for $1. So we put in $7 and selected 21
+plays of Tom Jones' "What's New Pussycat?" And then we ordered and waited."
 
-### Markdown
+"Here's the thing about when "What's New Pussycat?" plays over and over and over and
+over again. The second time it plays, you're immediate though isn't, "Hey someone's
+playing "What's New Pussycat?" again," it's "Hey.."What's New Pussycat?" is a lot
+longer than I first thought." The third time it plays, you're thinking, "Maybe
+someone's playing "What's New Pussycat?" again." The FOURTH time it plays, you're
+thinking, "WOAH. Someone just played "What's New Pussycat?" FOUR times, or at least
+someone played it twice, and it's a really long song."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"But a word about my friend John and what a genius he was because when were were first
+up at the jukebox and we were punching in the "What's New Pussycats?" I punched in about
+7, and then John says to me, "Hey, hey, hey wait..before we drop in another "What's 
+New Pussycat?", let's put in 1 "It's Not Unusual"."
 
-```markdown
-Syntax highlighted code block
+"And that was when the afternoon went fron GOOD to GREAT!"
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+The Salt and Pepper Diner is being attacked by a fleet of "What's New
+Pussycat?" and a single "It's Not Unusual". Play as Jukebox and destroy all 21 
+songs before everyone in the diner loses their marbles over the shenanigans of 
+two 11 year old boys named John.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taylornotlilly/What-s-New-Pussycat-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Controls
+left, right, up, and down arrow keys to move
+SPACE bar to shoot
+X to close the game
